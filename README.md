@@ -22,3 +22,22 @@
 
 ## Demo
 - [The Accessible eStore](https://publicissapient.github.io/accessible-ecommerce-demo/index.html)
+
+
+## Important
+- [https://a11yresources.webflow.io/](https://a11yresources.webflow.io/)
+- [https://www.a11yproject.com/](https://www.a11yproject.com/)
+- [https://a11y-style-guide.com/style-guide/](https://a11y-style-guide.com/style-guide/)
+- [https://publicissapient.github.io/accessible-ecommerce-demo/](https://publicissapient.github.io/accessible-ecommerce-demo/)
+
+
+## Checklist
+- [https://accessibility.18f.gov/checklist/](https://accessibility.18f.gov/checklist/)
+
+
+## Code Styling
+- [https://carbon.now.sh/](https://carbon.now.sh/)
+
+## Article's eCommerce / Retail
+- [https://medium.com/@lsnrae/the-accessible-estore-75b8ca91be1b](https://medium.com/@lsnrae/the-accessible-estore-75b8ca91be1b)
+- [https://medium.com/@lsnrae/the-state-of-accessibility-in-e-commerce-2019-q4-edition-4e645a7144d5](https://medium.com/@lsnrae/the-state-of-accessibility-in-e-commerce-2019-q4-edition-4e645a7144d5)
