@@ -24,6 +24,14 @@
 - [The Accessible eStore](https://publicissapient.github.io/accessible-ecommerce-demo/index.html)
 
 
+## Conferences
+- [A11y Camp](https://a11ycamp.org.au/) Nov 12-13
+- [Boston Accessibility Conference](https://a11y-bos.org/) Nov 2
+- [Conference Directory](https://www.neonmoire.com/)
+- [Inclusive Product Week](https://www.inclusiveproductweek.org)
+- 
+
+
 ## Important
 - [https://a11yresources.webflow.io/](https://a11yresources.webflow.io/)
 - [https://www.a11yproject.com/](https://www.a11yproject.com/)
